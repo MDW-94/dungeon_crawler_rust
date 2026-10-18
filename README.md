@@ -1,6 +1,8 @@
 # Rusty Roguelike - Dungeon Crawler
 
-<video controls src="resources/Screen Recording 2026-10-18 at 18.26.33.mov" title="Title" autoplay="true" loop="true"></video>
+![alt text](resources/demo1.png)
+
+-progress so far-
 
 ## Design Document
 
